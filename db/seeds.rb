@@ -1,0 +1,8 @@
+User.create(name: 'Bruno', email: 'brunonalon2@gmail.com', phone_number: '403.402.4616')
+User.create(name: 'Nalon', email: 'Nalon@gmail.com', phone_number: '403.402.4040')
+User.create(name: 'Amaral', email: 'Amaral@gmail.com', phone_number: '403.402.4041')
+User.create(name: 'Jorge', email: 'Jorge@gmail.com', phone_number: '403.402.4143')
+User.create(name: 'Luiz', email: 'Luiz@gmail.com', phone_number: '403.402.4444')
+User.create(name: 'Jaque', email: 'Jaque@gmail.com', phone_number: '403.402.5555')
+User.create(name: 'Lourdes', email: 'Lourdes@gmail.com', phone_number: '403.402.2222')
+User.create(name: 'Rapha', email: 'Rapha@gmail.com', phone_number: '403.402.3333')
